@@ -1,3 +1,9 @@
+# examples
+https://swiftuihub.com/swiftui-example-projects/
+https://www.hackingwithswift.com/read/8/2/building-a-uikit-user-interface-programmatically
+https://www.hackingwithswift.com/quick-start/swiftui
+
+
 # 🖼 Harvest-SwiftUI-Gallery
 
 [![Xcode 11.1](https://img.shields.io/badge/xcode-11.1-blue.svg?style=flat)](https://developer.apple.com/download/release/) [![Swift 5.1](https://img.shields.io/badge/swift-5.1-orange.svg?style=flat)](https://swift.org/download/)
